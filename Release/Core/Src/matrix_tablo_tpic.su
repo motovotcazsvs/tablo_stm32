@@ -1,0 +1,14 @@
+matrix_tablo_tpic.c:76:6:initTablo	8	static
+matrix_tablo_tpic.c:83:6:showTablo	16	static
+matrix_tablo_tpic.c:127:6:setDiget	16	static
+matrix_tablo_tpic.c:136:6:showString	56	static
+matrix_tablo_tpic.c:306:9:sortTPIC	0	static
+matrix_tablo_tpic.c:313:6:offTablo	0	static
+matrix_tablo_tpic.c:320:6:onTablo	0	static
+matrix_tablo_tpic.c:327:6:degree_output	8	static
+matrix_tablo_tpic.c:334:6:setTicker	8	static
+matrix_tablo_tpic.c:341:6:showTicker	144	static
+matrix_tablo_tpic.c:392:9:totalNumberShifts	0	static
+matrix_tablo_tpic.c:408:9:shift_byte	0	static
+matrix_tablo_tpic.c:418:6:resetTicker	16	static
+matrix_tablo_tpic.c:435:6:offTicker	16	static

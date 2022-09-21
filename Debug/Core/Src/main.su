@@ -1,0 +1,15 @@
+main.c:85:5:main	16	static
+main.c:170:6:SystemClock_Config	72	static
+main.c:208:13:MX_I2C2_Init	8	static
+main.c:242:13:MX_SPI2_Init	8	static
+main.c:280:13:MX_TIM1_Init	96	static
+main.c:355:13:MX_TIM2_Init	32	static
+main.c:400:13:MX_GPIO_Init	40	static
+main.c:456:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:464:7:controlTickTime	24	static
+main.c:481:10:getCurrentTick	4	static
+main.c:486:6:outputMainScreen	16	static
+main.c:509:6:outputSettingsScreen	8	static
+main.c:553:6:twoPoints	8	static
+main.c:568:6:functionGetRTC	8	static
+main.c:588:6:Error_Handler	4	static

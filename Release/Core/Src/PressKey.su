@@ -1,0 +1,9 @@
+PressKey.c:17:6:getKey	24	static
+PressKey.c:52:9:changeButtonsState	0	static
+PressKey.c:60:6:buttonAssignment	8	static
+PressKey.c:67:6:controlKey	24	static
+PressKey.c:106:6:stateOnOffSettings	0	static
+PressKey.c:112:6:stateNextSetting	0	static
+PressKey.c:123:6:stateNext	0	static
+PressKey.c:156:6:statePrevious	0	static
+PressKey.c:189:9:getStateNextSetting	0	static

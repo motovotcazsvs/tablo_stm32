@@ -1,0 +1,10 @@
+main.c:170:6:SystemClock_Config	80	static
+main.c:456:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:464:7:controlTickTime	0	static
+main.c:481:10:getCurrentTick	0	static
+main.c:486:6:outputMainScreen	8	static
+main.c:509:6:outputSettingsScreen	8	static
+main.c:85:5:main	152	static
+main.c:553:6:twoPoints	12	static
+main.c:568:6:functionGetRTC	8	static
+main.c:588:6:Error_Handler	0	static
